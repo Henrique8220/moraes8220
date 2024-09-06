@@ -1,7 +1,9 @@
-ola meu nome e Henrique moraes 
-estou estudando o alura 
-estou me desenvolvendo na linguagem javascript
-utilizo esse espaco para a minha organizacao e compartilhamento dos meus projetos desenvolvido
+Meu nome é Henrique moraes
 
-vc pode entrar em contatato comigo
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
 00001139148023sp@al.educacao.sp.gov.br
